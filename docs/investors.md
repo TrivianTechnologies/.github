@@ -5,7 +5,7 @@
 
 AI that works with people over time must navigate changing permissions, new evidence, evolving commitments, and disagreement among agents. Remembering the past is only part of that challenge. A system also needs to determine what remains authorized, what deserves reconsideration, and where independent judgment must be preserved.
 
-Trivian Technologies is developing infrastructure for that continuity. Our architectural thesis connects accountable history, current authority, evidence-sensitive revision, and coordination among distinct agents.
+Trivian Technologies is developing an early architecture for that continuity. Our thesis connects accountable history, current authority, evidence-sensitive revision, and coordination among distinct agents.
 
 **We are seeking development capital to turn this foundation into tested, deployable commercial products.**
 
@@ -18,6 +18,18 @@ Consider an enterprise agent working on a case for several weeks. A person chang
 Failures in that sequence can create unauthorized actions, repeated mistakes, difficult investigations, and costly manual review. Engineering teams must connect permissions, memory, evidence, and coordination in ways that remain dependable as circumstances change.
 
 Trivian approaches these as related architectural requirements. The commercial opportunity is to make that architecture practical to integrate and operate.
+
+## First commercial investigation
+
+Our first commercial investigation is **AI-native financial compliance**, beginning with lending.
+
+When a regulation changes, a financial institution must determine whether it applies, identify affected policies and systems, implement and test controls, monitor their operation, and later produce evidence for an audit, examination, or internal review. That work often crosses legal, compliance, operations, engineering, vendors, and internal audit.
+
+Our long-term thesis connects the chain:
+
+**Regulatory change → obligation → policy → control → runtime enforcement → evidence**
+
+Rosetta is the proposed runtime enforcement and evidence layer. The first product will be selected through customer discovery rather than assumed in advance. The leading candidate workflows are continuous evidence for lending controls and regulatory-change implementation through verification.
 
 ## One architecture, complementary capabilities
 
@@ -38,29 +50,34 @@ The distinctive proposition is how these capabilities work together. Investment 
 
 ## What exists today
 
-The intellectual foundation is accompanied by an inspectable open-source TRIA alpha, stewarded by Trivian Institute.
+| Stage | Evidence |
+|---|---|
+| **Working alpha** | The open-source TRIA SDK and initial Rosetta capabilities can be inspected today. They include primitives for executable policy, action-time decisions, escalation, and audit records. |
+| **Internal demonstration** | An integrated end-to-end financial-compliance demonstration is the next prototype target; we do not claim that product exists today. |
+| **Product direction** | Regulatory intelligence, obligation mapping, policy-to-control mapping, continuous monitoring, evidence review, and the broader persistent-intelligence architecture remain proposed directions. |
+| **External validation** | Production readiness, workflow fit, accuracy, integration burden, operating cost, security requirements, and willingness to pay have not yet been established. |
 
 - [Explore the TRIA SDK](https://github.com/TrivianInstitute/tria-sdk)
 - [Explore the Institute's repositories](https://github.com/TrivianInstitute)
 - [Founder publication identity and research links](https://orcid.org/0009-0005-5819-7082)
 
-TRIA provides an initial implementation for technical diligence and further development. Existing code and tests are evidence of engineering work, not a substitute for independent validation or production readiness. The broader commercial stack requires further integration, bug resolution, testing, and deployment work.
-
-That work is the purpose of this raise.
+The capital raise funds the movement from inspectable architecture to integrated demonstration, independent evaluation, design partnerships, and commercial evidence.
 
 ## From foundation to products
 
-The proposed first commercial offering is enterprise software for governed AI workflows: integrations, decision records, permission handling, continuity, and an operational interface for the teams responsible for deployment.
+Financial services is the market under investigation, and lending is the first discovery wedge. The goal is to find one painful, recurring workflow where Rosetta creates a meaningful advantage and solve it end to end.
 
-Financial and document-intensive professional workflows are initial candidate markets. The first deployment will be selected with partners around a specific operational problem, available evaluation data, and willingness to pay.
+We are seeking **3–5 design partners** among community and regional banks, credit unions, fintech lenders, and lending platforms. The likely executive sponsor is a Chief Compliance Officer, Chief Risk Officer, or lending leader. The working group may include lending compliance, operations, internal audit, engineering, and model-risk teams.
+
+A design partner would provide access to a real workflow and relevant personnel, help test a lightweight prototype, define approval and security requirements, and evaluate measurable changes in manual effort, evidence gathering, implementation time, and operating cost.
 
 The broader product direction includes:
 
-- **Syzygy Core:** persistent enterprise and human–AI workflows that combine governance, continuity, and revision.
+- **Syzygy Core:** persistent enterprise and human-AI workflows that combine governance, continuity, and revision.
 - **Harmonic Kernel:** future applications in learning, coaching, and adaptive interaction.
 - **Terra Sensorium:** future applications connecting relational intelligence with environmental and operational systems.
 
-Development will proceed in stages. The first commercial workflow provides a concrete place to test the architecture, establish customer value, and inform expansion.
+Development will proceed in stages. One validated compliance workflow provides the bridge from frontier architecture to a commercial product.
 
 ## Customer value and business model
 
@@ -100,10 +117,10 @@ These are preliminary planning allocations, not vendor quotes or committed expen
 
 The intended milestones are:
 
-1. Develop an integrated first commercial product around a defined enterprise workflow.
-2. Identify and resolve failures through adversarial testing and independent evaluation.
-3. Work toward 3–5 design partners and conversion of at least three into paid recurring deployments.
-4. Establish measured customer value and a repeatable implementation process.
+1. Conduct approximately 25–35 substantive customer-discovery interviews and identify one repeated, costly lending-compliance workflow.
+2. Recruit 3–5 design partners with access to the real workflow and a credible path to purchasing.
+3. Build one integrated end-to-end demonstration and resolve failures through adversarial testing and independent evaluation.
+4. Convert at least three partners into paid recurring deployments and establish measured customer value.
 
 These are funding objectives, not existing traction. The raise is intended to finance the work between an architectural proposition and dependable operation in the world.
 
