@@ -74,7 +74,7 @@ For scale illustration only, 100 customers at an average annual contract value o
 
 ## Open foundation, commercial development
 
-**Trivian Institute stewards TRIA as an open-source foundation. Trivian Technologies is developing the commercial software, applications, integrations, and services around that foundation.**
+**Trivian Institute stewards TRIA as an open-source foundation available under MPL-2.0. Trivian Technologies is a separate commercial venture developing software, applications, integrations, and services around that publicly available foundation.**
 
 The TRIA SDK is published under MPL-2.0. Open-source availability supports inspection and adoption. Technologies' commercial proposition rests on product execution, integration, operational capability, and the broader commercial architecture.
 
