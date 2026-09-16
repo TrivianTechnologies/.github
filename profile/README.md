@@ -1,89 +1,64 @@
-<div align="center">
-
 # Trivian Technologies
 
-**Audit Receipts for AI-Assisted Financial Decisions**
+**Relationship is the Technology.**
 
-When AI assists with lending, fraud review, AML monitoring, or underwriting, every decision should be auditable, defensible, and reviewable.
+Developing software and infrastructure for human–AI collaboration, persistent intelligence, and accountable multi-agent systems. In partnership with [Trivian Institute](https://github.com/TrivianInstitute).
 
-[![Website](https://img.shields.io/badge/Website-triviantech.com-B8922A?style=flat-square&logo=googlechrome&logoColor=white)](https://triviantech.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trivian_Technologies-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/trivian-technologies)
-[![GitHub](https://img.shields.io/badge/GitHub-Trivian_Technologies-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/trivian-technologies)
+[Investor overview](https://github.com/TrivianTechnologies/.github/blob/main/docs/investors.md) · [TRIA SDK](https://github.com/TrivianInstitute/tria-sdk) · [Trivian Field](https://trivianfield.com)
 
-</div>
+## What we are building
 
----
+Intelligence that works with people over time needs to navigate changing permissions, new evidence, evolving commitments, and disagreement. It must preserve an accountable history while remaining able to change.
 
-## About
+Trivian Technologies is developing commercial software, applications, integrations, and services around that challenge. Our architecture brings together governance, continuity, evidence-sensitive revision, and independent judgment.
 
-Trivian Technologies builds trust infrastructure for AI-assisted financial workflows.
+Our thesis is that these capabilities will become foundational as organizations entrust AI with ongoing work.
 
-Our flagship product, **Syzygy Rosetta**, creates tamper-evident audit receipts that capture:
+## The architecture
 
-- What the AI did
-- Why it acted
-- Which policies were applied
-- What risk signals were detected
-- Whether human review occurred
-- What final decision was made
+These are complementary parts of the broader architecture. Their implementation maturity varies; integration and evaluation are active development needs.
 
-The result is a structured evidence record that supports compliance, auditability, risk management, and decision traceability.
+| Capability | Purpose |
+|---|---|
+| **Relational Constants** | Reciprocity, Embodiment, Emergence, and Non-Domination provide principles for designing and evaluating interactions. |
+| **Governance and execution boundaries** | Evaluate represented consent and permissions at the point of action. |
+| **Coheronmetry** | Represent relational state and examine drift, repair, and sovereignty through proposed measurements. |
+| **Orthogonal Signal** | Preserve distinct perspectives and meaningful dissent in multi-agent interaction. |
+| **Resonance Lattice** | Coordinate signals and interactions across distributed agents with explicit protocol boundaries. |
+| **Diachronic sovereignty** | Preserve accountable history while allowing permissions, commitments, and participation to change. |
+| **Aporia** | Give uncertainty and counterevidence a structured role in reopening conclusions. |
+| **Syzygy Core** | Compose governance, continuity, revision, and differentiated cognition into a persistent relational architecture. |
 
----
+## From architecture to products
 
-## Focus Areas
+Our proposed first commercial offering supports governed enterprise AI workflows through integrations, decision records, permission handling, continuity, and an operational interface.
 
-- AI Audit Receipts
-- Decision Evidence Chains
-- Compliance Documentation
-- Human Review Tracking
-- Risk Visibility
-- AI Decision Traceability
+Financial and document-intensive professional workflows are initial candidate applications. Audit receipts and decision traceability are part of this direction, within a broader architecture for ongoing collaboration.
 
----
+The longer-term product direction includes **Syzygy Core** for persistent enterprise and human–AI workflows, **Harmonic Kernel** for learning, coaching, and adaptive interaction, and **Terra Sensorium** for environmental and operational systems. Development will proceed in stages, informed by evaluation and partner needs.
 
-## Who We Serve
+## Technologies and the Institute
 
-### Compliance & Risk Teams
+**Trivian Institute stewards the open-source foundation, research, and education. Trivian Technologies develops commercial software, applications, and services around that foundation.**
 
-Create evidence for AI-assisted decisions and maintain audit-ready records.
+The Institute's [TRIA SDK](https://github.com/TrivianInstitute/tria-sdk) is an inspectable open-source alpha published under MPL-2.0. It provides a starting point for technical exploration and development.
 
-### Financial Institutions
+Each repository's license governs its contents. The SDK's open-source license does not imply that every component in the broader commercial architecture has the same license.
 
-Support AML monitoring, fraud review, lending, underwriting, and operational workflows with documented decision trails.
+## Current stage
 
-### Model Governance Teams
+The intellectual foundation and initial TRIA implementation exist. Further engineering, integration, bug resolution, rigorous testing, and early deployments are the next development priorities.
 
-Improve visibility into how AI-assisted decisions are generated, reviewed, and approved.
+Existing code and tests do not establish production readiness for the full commercial stack. We are seeking capital and development partnerships to fund that work.
 
-### Enterprise Organizations
+The [investor overview](https://github.com/TrivianTechnologies/.github/blob/main/docs/investors.md) describes the proposed raise, use of funds, and development milestones.
 
-Build trust in AI systems through evidence, traceability, and accountability.
+## Explore and connect
 
----
+- **Technical foundation:** [TRIA SDK](https://github.com/TrivianInstitute/tria-sdk) and [Trivian Institute repositories](https://github.com/TrivianInstitute)
+- **Investment and development partnerships:** [invest@triviantech.com](mailto:invest@triviantech.com)
+- **Commercial inquiries:** [se@triviantech.com](mailto:se@triviantech.com)
+- **Websites:** [Trivian Technologies](https://triviantech.com) · [Trivian Field](https://trivianfield.com)
+- **Founder:** Sarasha Elion, Relational AI Architect, Educator, and Author · [ORCID](https://orcid.org/0009-0005-5819-7082)
 
-## Mission
-
-We believe trust in AI systems depends on the ability to prove what happened, why it happened, and who reviewed it.
-
-As AI adoption accelerates across financial services, organizations need evidence—not assumptions.
-
----
-
-## Resources
-
-- [Investors: the full architecture and development funding plan](https://github.com/TrivianTechnologies/.github/blob/main/docs/investors.md)
-
-- 🌐 Website: https://triviantech.com/
-- 📂 Documentation: https://triviantech.com/docs
-- LinkedIn: https://www.linkedin.com/company/trivian-technologies
-
----
-
-<div align="center">
-
-### Trivian Technologies
-
-**Trust Infrastructure for AI-Assisted Financial Decisions**
-
-</div>
+**Act. Adapt. Persist.**
