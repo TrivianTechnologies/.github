@@ -2,7 +2,7 @@
 
 **Relationship is the Technology.**
 
-Developing software and infrastructure for human–AI collaboration, persistent intelligence, and accountable multi-agent systems. In partnership with [Trivian Institute](https://github.com/TrivianInstitute).
+Developing software and infrastructure for human–AI collaboration, persistent intelligence, and accountable multi-agent systems around TRIA, the open-source foundation stewarded by [Trivian Institute](https://github.com/TrivianInstitute).
 
 [Investor overview](https://github.com/TrivianTechnologies/.github/blob/main/docs/investors.md) · [TRIA SDK](https://github.com/TrivianInstitute/tria-sdk) · [Trivian Field](https://trivianfield.com)
 
@@ -39,7 +39,7 @@ The longer-term product direction includes **Syzygy Core** for persistent enterp
 
 ## Technologies and the Institute
 
-**Trivian Institute stewards the open-source foundation, research, and education. Trivian Technologies develops commercial software, applications, and services around that foundation.**
+**Trivian Institute stewards the open-source foundation, research, and education. Trivian Technologies is a separate commercial venture developing software, applications, and services around that publicly available foundation.**
 
 The Institute's [TRIA SDK](https://github.com/TrivianInstitute/tria-sdk) is an inspectable open-source alpha published under MPL-2.0. It provides a starting point for technical exploration and development.
 
