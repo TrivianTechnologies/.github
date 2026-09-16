@@ -72,6 +72,8 @@ As AI adoption accelerates across financial services, organizations need evidenc
 
 ## Resources
 
+- [Investors: the full architecture and development funding plan](https://github.com/TrivianTechnologies/.github/blob/main/docs/investors.md)
+
 - 🌐 Website: https://triviantech.com/
 - 📂 Documentation: https://triviantech.com/docs
 - LinkedIn: https://www.linkedin.com/company/trivian-technologies
