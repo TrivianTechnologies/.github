@@ -38,6 +38,7 @@ The following describes the architecture and its intended product value. Impleme
 | Capability | Role in the architecture | Intended product value |
 |---|---|---|
 | **Relational Constants** | Reciprocity, Embodiment, Emergence, and Non-Domination provide principles for designing and evaluating interactions. | A consistent basis for specifying relationship requirements and examining failures. |
+| **Rosetta runtime enforcement** | Evaluates policy during automated and AI-driven activity, supports allow, rewrite, or escalation decisions, and records policy and evidence context. | Provides the first commercial engine for governed lending and financial-compliance workflows. |
 | **Governance and execution boundaries** | Evaluate represented consent and permissions at the point of action. | Help applications respond to changes in authority and produce inspectable decision records. |
 | **Coheronmetry** | Represent relational state and examine drift, repair, and sovereignty through proposed measurements. | Give operators visibility into how interactions develop beyond individual responses. |
 | **Orthogonal Signal** | Preserve distinct perspectives and meaningful dissent in multi-agent interaction. | Address the risk that agreement reflects shared assumptions rather than independent judgment. |
@@ -52,16 +53,26 @@ The distinctive proposition is how these capabilities work together. Investment 
 
 | Stage | Evidence |
 |---|---|
-| **Working alpha** | The open-source TRIA SDK and initial Rosetta capabilities can be inspected today. They include primitives for executable policy, action-time decisions, escalation, and audit records. |
-| **Internal demonstration** | An integrated end-to-end financial-compliance demonstration is the next prototype target; we do not claim that product exists today. |
-| **Product direction** | Regulatory intelligence, obligation mapping, policy-to-control mapping, continuous monitoring, evidence review, and the broader persistent-intelligence architecture remain proposed directions. |
+| **Public foundation** | The open-source TRIA SDK is available for inspection through Trivian Institute. It provides the public relational, governance, continuity, and evaluation substrate under MPL-2.0. |
+| **Private Rosetta MVP** | A private API-first governance implementation now includes finance and lending policy packs, tenant policy assignments, semantic checks, guarded enforcement, escalation, and audit records. Its repository currently reports 194 passing tests and 3 skipped tests; this is internal verification, not independent validation. |
+| **Private R&D layers** | Syzygy Core, Aporia Protocol, and Evolution Catalyst Layer now sit in the Trivian Technologies development account as experimental private repositories. They have different maturity levels and are not presented as one integrated production system. |
+| **Integrated financial-compliance demonstration** | The next prototype target is one end-to-end lending workflow connecting requirement, policy, control, runtime action, and evidence. |
 | **External validation** | Production readiness, workflow fit, accuracy, integration burden, operating cost, security requirements, and willingness to pay have not yet been established. |
 
-- [Explore the TRIA SDK](https://github.com/TrivianInstitute/tria-sdk)
-- [Explore the Institute's repositories](https://github.com/TrivianInstitute)
+The private development portfolio currently includes:
+
+- **Rosetta:** the commercial runtime policy, escalation, and evidence engine being developed for the first financial-compliance vertical.
+- **Syzygy Core:** private orchestration, bounded recursive cognition, lineage preservation, differentiated organs, and higher-order synthesis.
+- **Aporia Protocol:** an experimental epistemic layer for preserving uncertainty, contradiction, and revisable conclusions.
+- **Evolution Catalyst Layer:** an experimental consent-governed architecture for longer-term human-AI development applications.
+
+The repositories can support controlled technical diligence. Their presence demonstrates implementation work; it does not substitute for customer validation, security review, or production evidence.
+
+- [Explore the public TRIA SDK](https://github.com/TrivianInstitute/tria-sdk)
+- [Explore the Institute's public repositories](https://github.com/TrivianInstitute)
 - [Founder publication identity and research links](https://orcid.org/0009-0005-5819-7082)
 
-The capital raise funds the movement from inspectable architecture to integrated demonstration, independent evaluation, design partnerships, and commercial evidence.
+The capital raise funds the movement from a public foundation and private implementations to an integrated demonstration, independent evaluation, design partnerships, and commercial evidence.
 
 ## From foundation to products
 
@@ -73,8 +84,9 @@ A design partner would provide access to a real workflow and relevant personnel,
 
 The broader product direction includes:
 
-- **Syzygy Core:** persistent enterprise and human-AI workflows that combine governance, continuity, and revision.
-- **Harmonic Kernel:** future applications in learning, coaching, and adaptive interaction.
+- **Syzygy Core:** persistent enterprise and human-AI workflows that combine governance, continuity, revision, and differentiated cognition.
+- **Aporia Protocol:** evidence-sensitive interpretation that can preserve unresolved meaning and reopen conclusions when new evidence arrives.
+- **Evolution Catalyst Layer and Harmonic Kernel:** longer-term consent-governed applications in learning, coaching, and adaptive human-AI development.
 - **Terra Sensorium:** future applications connecting relational intelligence with environmental and operational systems.
 
 Development will proceed in stages. One validated compliance workflow provides the bridge from frontier architecture to a commercial product.
@@ -93,7 +105,9 @@ For scale illustration only, 100 customers at an average annual contract value o
 
 **Trivian Institute stewards TRIA as an open-source foundation available under MPL-2.0. Trivian Technologies is a separate commercial venture developing software, applications, integrations, and services around that publicly available foundation.**
 
-The TRIA SDK is published under MPL-2.0. Open-source availability supports inspection and adoption. Technologies' commercial proposition rests on product execution, integration, operational capability, and the broader commercial architecture.
+The TRIA SDK is published under MPL-2.0. Open-source availability supports inspection and adoption. Separate private implementations remain governed by their own repository terms and provenance; compatibility with TRIA does not by itself place them under MPL-2.0.
+
+Moving repositories into the Technologies development account centralizes the work but does not itself transfer copyright ownership. Formal contributor assignments, chain-of-title documentation, and license normalization are part of the corporate and IP work planned for this round.
 
 Investment in Technologies funds its commercial development. It does not imply ownership of the Institute or exclusive ownership of the open-source foundation.
 
@@ -120,7 +134,8 @@ The intended milestones are:
 1. Conduct approximately 25–35 substantive customer-discovery interviews and identify one repeated, costly lending-compliance workflow.
 2. Recruit 3–5 design partners with access to the real workflow and a credible path to purchasing.
 3. Build one integrated end-to-end demonstration and resolve failures through adversarial testing and independent evaluation.
-4. Convert at least three partners into paid recurring deployments and establish measured customer value.
+4. Complete contributor assignments, chain-of-title documentation, and repository-level license normalization for the commercial portfolio.
+5. Convert at least three partners into paid recurring deployments and establish measured customer value.
 
 These are funding objectives, not existing traction. The raise is intended to finance the work between an architectural proposition and dependable operation in the world.
 
