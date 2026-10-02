@@ -1,5 +1,7 @@
 # Trivian Technologies
 
+**Status: SUPPORTING COMPONENT — company and engineering-constellation overview.**
+
 **Relationship is the Technology.**
 
 Trivian Technologies develops relational infrastructure for persistent, accountable intelligence.
@@ -27,7 +29,7 @@ The TRIA SDK is the deployable kernel of the architecture. It is not the reducti
 
 ## First commercial wedge: Rosetta
 
-**Syzygy Rosetta Protocol** is our first commercial product wedge.
+**Rosetta** is our first commercial product wedge. [Syzygy Rosetta Protocol](https://github.com/TrivianTechnologies/syzygy-rosetta-protocol) is its canonical public protocol/specification. The private Rosetta implementation/MVP is maintained separately pending production succession, and the Rosetta client/integration SDK is planned.
 
 Rosetta focuses on environments where decisions must remain legible across policy, authorization, execution, evidence, and audit. Regulated workflows are an initial proving ground because stale authority, unclear provenance, and unverifiable action create concrete operational risk.
 
@@ -65,9 +67,15 @@ We are building with researchers, engineers, design partners, institutions, and 
 - **Investment:** invest@triviantech.com
 - **Partnerships and commercial inquiries:** node@triviantech.com
 - **Founder & Chief Visionary Officer:** Sarasha Elion
-- **Trivian Institute:** https://trivianinstitute.org
+- **Research lineage / institutional birthplace — Trivian Institute:** https://trivianinstitute.org
 
 ---
 
 **In relatione fieri.**  
 *We become in relationship.*
+
+## Research lineage and current home
+
+Originator: Sarasha Elion. This work draws on architecture originated and cultivated through Trivian Institute. Trivian Technologies is the current engineering and commercial-development home. Repository stewardship does not establish ownership of all underlying IP; the intended founder IP assignment is pending, and contributor and third-party rights remain applicable.
+
+For technical and ecosystem inquiries: node@triviantech.com. No repository-level license file is currently specified; this description does not grant additional rights.
